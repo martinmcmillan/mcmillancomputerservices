@@ -1,0 +1,62 @@
+a:link {
+    color: #0000FF
+}
+
+a:visited {
+    color: #0000FF
+}
+
+a:hover {
+    color: #FF0000
+}
+
+a:active {
+    color: #00FF00
+}
+
+p {
+    font-family: Helvetica, sans-serif;
+}
+
+.mission {
+    font-family: serif;
+    font-weight: bold;
+}
+
+.bio {
+    font-family: serif;
+    font-weight: bold;
+}
+
+.copyright {
+    font-family: serif;
+    font-weight: bold;
+    font-size: small;
+}
+
+.contact {
+    font-family: serif;
+    font-weight: bold;
+    font-size: small;
+}
+
+pre.contact {
+    font-family: monospace;
+    text-align: left;
+}
+
+h1 {
+    color: #FF0000;
+    text-align: center;
+    font-variant: small-caps;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 4rem;
+}
+
+h6 {
+    color: #FF0000;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+}
